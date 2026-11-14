@@ -1,0 +1,70 @@
+html[data-theme=dark]{color-scheme:dark;--bg:#080a0a;--surface:#101312;--surface2:#171b1a;--ink:#e8eeeb;--muted:#9ba6a2;--line:#272e2c;--accent:#d98293;--accent2:#f0a5b3;--teal:#88b9af;--blue:#91b7d2;--gold:#d6b579;--red:#e48279;--sidebar:#0c0f0e;--softrose:#291b20;--softblue:#17232a;--softteal:#16241f;--softgold:#282216;--shadow:0 7px 24px rgba(0,0,0,.28)}
+html[data-theme=dark] body{background:#080a0a;color:#e8eeeb}
+html[data-theme=dark] .sidebar{background:#0c0f0e;border-color:#252b29}
+html[data-theme=dark] .topbar{background:rgba(12,15,14,.94);border-color:#252b29}
+html[data-theme=dark] .nav-label{color:#78827f}
+html[data-theme=dark] .nav-link{color:#a7b0ad}
+html[data-theme=dark] .nav-link.active{color:#f0a5b3;background:#291b20}
+html[data-theme=dark] .nav-link.active i{background:#e294a3}
+html[data-theme=dark] .brand-mark{background:#a64c60;box-shadow:0 5px 15px #a64c6033}
+html[data-theme=dark] .brand b span{color:#e294a3}
+html[data-theme=dark] .button.primary{background:#a64c60;border-color:#a64c60;color:#fff}
+html[data-theme=dark] .button.primary:hover{background:#ba5b70}
+html[data-theme=dark] .button.soft{background:#291b20;color:#f0a5b3}
+html[data-theme=dark] .demo-banner{background:#21171a;border-color:#54313b;color:#bdc4c1}
+html[data-theme=dark] .demo-banner b{color:#efabb8}
+html[data-theme=dark] .demo-icon{background:#a64c60}
+html[data-theme=dark] .stat-card,html[data-theme=dark] .panel,html[data-theme=dark] .upload-zone,html[data-theme=dark] .scenario-detail{background:#101312;border-color:#272e2c}
+html[data-theme=dark] .stat-icon{background:#291b20;color:#e294a3}
+html[data-theme=dark] .stat-icon.blue{background:#17232a;color:#91b7d2}
+html[data-theme=dark] .stat-icon.teal{background:#16241f;color:#88b9af}
+html[data-theme=dark] .stat-icon.amber{background:#282216;color:#d6b579}
+html[data-theme=dark] .case-select,html[data-theme=dark] .global-search,html[data-theme=dark] .search-field,html[data-theme=dark] .select-control,html[data-theme=dark] .select-cluster select,html[data-theme=dark] .setting-row select,html[data-theme=dark] .field-label select{background:#111514;border-color:#303835;color:#e8eeeb}
+html[data-theme=dark] .status-pill{background:#1d2a30;color:#a5c8df}
+html[data-theme=dark] .status-pill.approved,html[data-theme=dark] .status-pill.complete,html[data-theme=dark] .status-pill.closed{background:#172822;color:#99c9b5}
+html[data-theme=dark] .status-pill.pending,html[data-theme=dark] .status-pill.open,html[data-theme=dark] .status-pill.processing{background:#2c2519;color:#e2c58e}
+html[data-theme=dark] .status-pill.under-review,html[data-theme=dark] .status-pill.committee-review,html[data-theme=dark] .status-pill.in-progress{background:#2c1d22;color:#efabba}
+html[data-theme=dark] .severity.high{color:#f09b92;background:#3b2220}
+html[data-theme=dark] .severity.medium{color:#e5c485;background:#332a1a}
+html[data-theme=dark] .severity.low{color:#9bd0c2;background:#1c3029}
+html[data-theme=dark] .critical-banner{background:#282116;border-color:#4b3c25;color:#e3c58c}
+html[data-theme=dark] .critical-banner b{color:#f0d39a}
+html[data-theme=dark] .info-strip{background:#182328;color:#b6c1c2}
+html[data-theme=dark] .info-strip svg{color:#95b9cc}
+html[data-theme=dark] .assessment-option{background:#151918;border-color:#303835}
+html[data-theme=dark] .assessment-option.chosen{background:#291b20;border-color:#a65c6d}
+html[data-theme=dark] .assessment-orb{background:#291b20;border-color:#56343d;color:#efa9b7}
+html[data-theme=dark] .avatar{background:#3b252c;color:#f0aab7}
+html[data-theme=dark] .avatar.blue-avatar{background:#1e303a;color:#aacde2}
+html[data-theme=dark] .avatar.gold-avatar{background:#342c1d;color:#e5c78c}
+html[data-theme=dark] .panel-header p,html[data-theme=dark] .stat-label,html[data-theme=dark] .stat-change{color:#9ba6a2}
+html[data-theme=dark] .timeline-dot{border-color:#101312}
+html[data-theme=dark] .event-card,html[data-theme=dark] .evidence-card,html[data-theme=dark] .scenario-box,html[data-theme=dark] .scenario-detail,html[data-theme=dark] .action-icon,html[data-theme=dark] .protocol-icon{background:#151918;border-color:#2a322f}
+html[data-theme=dark] .scenario-box{background:#21171a}
+html[data-theme=dark] .protocol-row.selected{background:#291b20}
+html[data-theme=dark] .review-step span{background:#151918;border-color:#303835;color:#abb5b1}
+html[data-theme=dark] .review-step.done span{background:#1c3029;color:#9bd0c2}
+html[data-theme=dark] .review-step.current span{background:#a64c60;color:#fff}
+html[data-theme=dark] .chat-message>div:nth-child(2){background:#171b1a}
+html[data-theme=dark] .chat-message.user>div:nth-child(2){background:#17232a}
+html[data-theme=dark] .chat-avatar{background:#291b20;color:#e9a2b0}
+html[data-theme=dark] .chat-message.user .chat-avatar{background:#17232a;color:#a4c8dc}
+html[data-theme=dark] .suggestions button{background:#151918;border-color:#303835;color:#c1c9c6}
+html[data-theme=dark] .suggestions button:hover{border-color:#a65c6d;color:#efa9b7}
+html[data-theme=dark] .comment-input,html[data-theme=dark] .chat-input{background:#111514;border-color:#303835}
+html[data-theme=dark] .workflow-strip,html[data-theme=dark] .dept-grid>div{background:#101312;border-color:#272e2c}
+html[data-theme=dark] .empty-state{color:#aab4b0}
+html[data-theme=dark] .upload-zone{border-color:#48514d}
+html[data-theme=dark] .upload-zone.dragging{border-color:#d98293;background:#21171a}
+html[data-theme=dark] table th{color:#98a39f}
+html[data-theme=dark] tbody tr:hover{background:#171b1a}
+html[data-theme=dark] .toast{background:#f0a5b3;color:#171011}
+html[data-theme=dark] .synthetic-page{color:#596261}
+html[data-theme=dark] .viewer-paper-wrap{background:#171d1b}
+html[data-theme=dark] .viewer-caption{background:#171d1bdd;color:#bac3bf}
+html[data-theme=dark] .recharts-cartesian-axis-tick-value{fill:#aab4b0}
+html[data-theme=dark] .recharts-cartesian-grid line{stroke:#2a322f}
+html[data-theme=dark] .recharts-legend-item-text{color:#aab4b0!important}
+html[data-theme=dark] input,html[data-theme=dark] textarea{color:var(--ink)}
+html[data-theme=dark] .mobile-scrim{background:#000a}
+@media(prefers-reduced-motion:reduce){html[data-theme=dark] *{scroll-behavior:auto}}

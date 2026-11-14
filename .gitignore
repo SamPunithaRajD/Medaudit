@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.npm-cache/
+.expo/
+.expo-user/
+coverage/
+.env
+.env.local
+apps/mobile/node_modules/
+apps/mobile/dist/
+apps/mobile/.expo/
+apps/mobile/.expo-user/
+apps/mobile/.npm-cache/
